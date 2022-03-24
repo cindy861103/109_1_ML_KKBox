@@ -9,7 +9,7 @@
 > * 完整期末報告：[ML-final report-KKBOX](05153255_ML_WSDM-KKBox'sMusicRecommendationChallenge.pdf)
 > * 完整程式檔(ipynb)：[ML-KKBOX-final_code](05153255_ML_KKBox_FinalReport.ipynb)
 > * 提交分數(submission score)：
-> <img src="05153255_KKBOX_submission_all.png" width = "80%" height = "80%" alt="KKBOX_score" align=center />  
+> <img src="05153255_KKBOX_submission_all.png" width = "65%" height = "65%" alt="KKBOX_score" align=center />  
 > 
 > * 心得與結論：  
 > 　　由於時間緊迫，加上第一次做Kaggle競賽，且由於是獨自完成，故幾乎從頭開始研究、觀察，亦詢問很多人，才慢慢建立自己的架構和想法，雖然很多內容都是仿照許多參考資料才得以有想法，但自己獨立完成完整的程式碼，真的很感動，也很辛苦，在程式資齡不到1年的情況下，雖然可能提交成績的結果並不好，但我已經很滿足了，也學到很多東西。
